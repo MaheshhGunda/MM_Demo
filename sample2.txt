@@ -1,1 +1,2 @@
 with extension
+Second line added
